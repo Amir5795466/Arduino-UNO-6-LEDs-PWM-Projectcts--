@@ -2,10 +2,10 @@
 An Arduino Uno based project that controls 6 LEDs to blink in a specific sequence. This project demonstrates basic Arduino programming, LED interfacing, digital output, and circuit connections. It is a beginner-friendly electronics project for learning embedded systems.
 
 ________________________________________________________________
-# [Uploading YT_Day2_Led_Blink_part1.ino…]()
+ [Uploading YT_Day2_Led_Blink_part1.ino…]()
 ----------------------------------------------------------------
 ________________________________________________________________
-# [Uploading YT_Day2_Part2.ino…]()
+ [Uploading YT_Day2_Part2.ino…]()
 ----------------------------------------------------------------
 --------------------------
 # Circuit Diagram
